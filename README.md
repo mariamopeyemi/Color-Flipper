@@ -1,5 +1,5 @@
 # SIDE HUSTLE INTERNSHIP ASSIGNMENT WEEK 4
 
-##HOSTED LINK
+## HOSTED LINK
 
-[LIVE PREVIEW]()
+[LIVE PREVIEW](https://mariamopeyemi.github.io/Color-Flipper/)
